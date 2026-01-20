@@ -1,5 +1,4 @@
 # Deploy a Static Website on AWS using Terraform
-![infrastructure diagram](./images/flowchart.png)
 ## Objective
 Create an AWS infrastructure to host a static website using Terraform. The infrastructure will include:
 - **AWS S3**: For storing the website files.
@@ -137,3 +136,4 @@ Your static website should now be live and accessible via the domain name config
 - Ensure your AWS credentials are correctly configured.
 - Check for typos or misconfigurations in your Terraform files.
 - Review the AWS Management Console for any error messages related to the resources.
+
